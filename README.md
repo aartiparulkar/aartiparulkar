@@ -1,5 +1,6 @@
 <h2> Hi, I'm Aarti Parulkar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em><b>Information Technology at University of Mumbai</b>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm a project-driven IT student who loves building AI-powered solutions and simplifying complex data into user-friendly applications. I enjoy taking ideas from scratch and turning them into real, working products. 
@@ -20,14 +21,32 @@ const aarti = {
   funFact: "I talk to my code like it can hear me — sometimes, it listens."
 }
 ```
-- 🔭 I’m currently working on [An agentic-AI based finance assistant](https://github.com/aartiparulkar/RuPi)
 
-- 🌱 I’m currently learning **Data Analytics, Gen AI, Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aartiparulkar](https://github.com/aartiparulkar)
+### What I'm up to...  
 
-### Know about my experience  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/aartiparulkar/aartiparulkar/raw/main/kdoTQRrG7G.gif" width="200">
+    </td>
+    <td>
+      <ul>
+        <li>Building an <strong>Agentic-AI based finance assistant</strong> — <a href="https://github.com/aartiparulkar/RuPi">View Project</a></li>
+        <li>Learning <strong>Gen AI, Agentic AI Workflows, API Design, Microservices Architecture</strong></li>
+        <li>Participating in hackathons to develop AI-powered productivity tools.</li>
+        <li>All my projects are available at <a href="https://github.com/aartiparulkar">GitHub</a></li>
+        <li>I believe in learning by building — my best ideas come when I’m creating things hands-on.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+### Know about my experience  <img src="https://lottie.host/0c350152-2098-423c-9835-b21702ee05f9/KIOvaf579b.lottie" width="30">  
 [https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link](https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link)
+<br><br>
 
 ### Languages and Tools:
 <p align="left"> 
