@@ -23,28 +23,19 @@ const aarti = {
 ```
 
 
-### What I'm up to...  
+### What I'm up to...   <img align='left' src="https://github.com/aartiparulkar/aartiparulkar/raw/main/kdoTQRrG7G.gif" width="250">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/aartiparulkar/aartiparulkar/raw/main/kdoTQRrG7G.gif" width="200">
-    </td>
-    <td>
-      <ul>
-        <li>Building an <strong>Agentic-AI based finance assistant</strong> — <a href="https://github.com/aartiparulkar/RuPi">View Project</a></li>
-        <li>Learning <strong>Gen AI, Agentic AI Workflows, API Design, Microservices Architecture</strong></li>
-        <li>Participating in hackathons to develop AI-powered productivity tools.</li>
-        <li>All my projects are available at <a href="https://github.com/aartiparulkar">GitHub</a></li>
-        <li>I believe in learning by building — my best ideas come when I’m creating things hands-on.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Building an <strong>Agentic-AI based finance assistant</strong> — <a href="https://github.com/aartiparulkar/RuPi">View Project</a><br>
+Learning <strong>Gen AI, Agentic AI Workflows, API Design, Microservices Architecture</strong><br>
+Participating in hackathons to develop AI-powered productivity tools.<br>
+All my projects are available at <a href="https://github.com/aartiparulkar">GitHub</a><br>
+I believe in learning by building — my best ideas come when I’m creating things hands-on.<br>
+
 
 <br><br>
 
-### Know about my experience  <img src="https://lottie.host/0c350152-2098-423c-9835-b21702ee05f9/KIOvaf579b.lottie" width="30">  
+### Know about my experience    
+
 [https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link](https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link)
 <br><br>
 
