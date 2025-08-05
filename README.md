@@ -20,6 +20,11 @@ const aarti = {
   funFact: "I talk to my code like it can hear me — sometimes, it listens."
 }
 ```
+- 🔭 I’m currently working on [An agentic-AI based finance assistant](https://github.com/aartiparulkar/RuPi)
+
+- 🌱 I’m currently learning **Data Analytics, Gen AI, Agentic AI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aartiparulkar](https://github.com/aartiparulkar)
 
 ### Know about my experience  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 [https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link](https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link)
