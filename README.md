@@ -21,18 +21,17 @@ const aarti = {
   funFact: "I talk to my code like it can hear me — sometimes, it listens."
 }
 ```
+  
+<img align='left' src="https://github.com/aartiparulkar/aartiparulkar/raw/main/kdoTQRrG7G.gif" width="200">
 
+### What I'm up to... 
 
-### What I'm up to...   <img align='left' src="https://github.com/aartiparulkar/aartiparulkar/raw/main/kdoTQRrG7G.gif" width="250">
-
-Building an <strong>Agentic-AI based finance assistant</strong> — <a href="https://github.com/aartiparulkar/RuPi">View Project</a><br>
-Learning <strong>Gen AI, Agentic AI Workflows, API Design, Microservices Architecture</strong><br>
-Participating in hackathons to develop AI-powered productivity tools.<br>
-All my projects are available at <a href="https://github.com/aartiparulkar">GitHub</a><br>
-I believe in learning by building — my best ideas come when I’m creating things hands-on.<br>
-
-
-<br><br>
+- Building an <strong>Agentic-AI based finance assistant</strong> — <a href="https://github.com/aartiparulkar/RuPi">View Project</a><br>
+- Learning <strong>Gen AI, Agentic AI Workflows, API Design, Microservices Architecture</strong><br>
+- Participating in hackathons to develop AI-powered productivity tools.<br>
+- All my projects are available at <a href="https://github.com/aartiparulkar">GitHub</a><br>
+- I believe in learning by building — my best ideas come when I’m creating things hands-on.<br>
+<br><br><br>
 
 ### Know about my experience    
 
