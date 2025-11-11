@@ -35,7 +35,7 @@ const aarti = {
 
 ### Know about my experience    
 
-[https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link](https://drive.google.com/file/d/1pF8PQl5T57wapT3-XTyzZ53aYrSCn_gD/view?usp=drive_link)
+[Click here to view my latest resume!](https://docs.google.com/document/d/14ypd4WYk4xPVnkdwa3yXt8WBqTiQhphv/edit?usp=sharing&ouid=101238906904302118437&rtpof=true&sd=true)
 <br><br>
 
 ### Languages and Tools:
