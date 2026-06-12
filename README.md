@@ -11,9 +11,9 @@ I build whatever I can imagine. If an idea stays long enough in my head, chances
 * Improving product engineering, deployment, and system design skills
 
 ### Tech Stack
-* **Languages:** Python, JavaScript, SQL, Java
+* **Languages:** Python, JavaScript, SQL, Java, C/C++, TypeScript
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,typescript" />
 </p>
 
 * **Backend:** FastAPI, Flask, Node.js
@@ -26,11 +26,11 @@ I build whatever I can imagine. If an idea stays long enough in my head, chances
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-* **AI & Data:** LangChain, Pandas, Scikit-learn
+* **AI & Data:** LangChain, Pandas, Scikit-learn, Mastra
 
-* **Tools:** PostgreSQL, Docker, Git, Firebase, Supabase
+* **Tools:** PostgreSQL, Git, Firebase, Supabase, MongoDB
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=postgres,git,firebase,supabase,mongodb" />
 </p>
 
 ### Fun Facts
