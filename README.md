@@ -7,7 +7,7 @@ I like exploring backend development, AI-assisted applications, and product buil
 I build whatever I can imagine. If an idea stays long enough in my head, chances are I'll build it and ship it.
 
 ### Currently Working On
-* Building **Tara**, an AI-powered personal finance assistant
+* Building **Tara**, an AI-powered personal finance assistant [tara-finance-agent](https://github.com/aartiparulkar/tara-finance-agent.git)
 * Improving product engineering, deployment, and system design skills
 
 ### Tech Stack
