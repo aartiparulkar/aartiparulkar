@@ -38,4 +38,4 @@ I build whatever I can imagine. If an idea stays long enough in my head, chances
 * 📺 Grew up on Pokémon and Dragon Ball Z. 
 
 ### Reach Me
-* Email: [aarti.parulkar@gmail.com](mailto:aarti.parulkar@gmail.com)
+* Email: [aarti.a.parulkar@gmail.com](mailto:aarti.a.parulkar@gmail.com)
