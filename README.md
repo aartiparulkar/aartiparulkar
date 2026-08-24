@@ -7,7 +7,7 @@ I like exploring backend development, AI-assisted applications, and product buil
 I build whatever I can imagine. If an idea stays long enough in my head, chances are I'll build it and ship it.
 
 ### Currently Working On
-* Refining Python Skills by building small projects. [100DaaysofPython](https://github.com/aartiparulkar/100DaysOfPython.git)
+* Refining Python Skills by building small projects. [100DaysofPython](https://github.com/aartiparulkar/100DaysOfPython.git)
 * Improving product engineering, deployment, and system design skills
 
 ### Tech Stack
