@@ -28,7 +28,7 @@ I build whatever I can imagine. If an idea stays long enough in my head, chances
 
 * **AI & Data:** LangChain, Pandas, Scikit-learn, Mastra
 
-* **Tools:** PostgreSQL, Git, Firebase, Supabase, MongoDB
+* **Tools/Database:** PostgreSQL, Git, Firebase, Supabase, MongoDB
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,git,firebase,supabase,mongodb" />
 </p>
